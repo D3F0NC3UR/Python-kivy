@@ -62,7 +62,6 @@ class GpsTest(App):
 
     def on_resume(self):
         gps.start(1000, 0)
-  __Alex Andre__ s
 
 
 if __name__ == '__main__':
