@@ -1,5 +1,5 @@
 """
-Simple Hello World app to test Buildozer Action.
+Simple1 Hello World app to test Buildozer Action.
 
 It builds Kivy app with file main.kv.
 """
